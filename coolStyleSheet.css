@@ -1,5 +1,12 @@
 .fullBlock{
 	height: 200px;
-	background-color:green;
 	width:100%;
+	background-color:grey;
+	border: 1px solid black;
+}
+
+.halfBlock{
+	display: inline-block;
+	width:50%;
+	border:1px solid blue;
 }
